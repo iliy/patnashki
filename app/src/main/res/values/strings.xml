@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatnashkiQuest</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_object">objects/emptyobject.obj</string>
+</resources>
